@@ -12,7 +12,7 @@ shown the secure content.
 
 To render some content conditional on whether the user is
 authenticated or not we could use server side rendering (e.g. with
-Freemarker or Tymeleaf), or we can just ask the browser to to it,
+Freemarker or Tymeleaf), or we can just ask the browser to do it,
 using some JavaScript. To do that we are going to use
 https://angularjs.org/[AngularJS], but if you prefer to use a
 different framework, it shouldn't be very hard to translate the client
